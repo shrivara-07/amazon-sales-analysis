@@ -1,0 +1,13 @@
+# Amazon Sales Data Analysis
+
+## Project Overview
+This project explores a dataset of 10,000 Amazon sales transactions. The goal was to identify key business drivers, such as high-performing categories and the impact of different payment methods on sales volume.
+
+## Key Files & Insights
+* **amazon sales**: The primary dataset including Order IDs, Product Names, and Categories.
+* **sales by category**: Shows that **Electronics** is the leading revenue driver, closely followed by **Home** and **Fashion**.
+* **discount by payment method**: Analyzes average discounts across Card, COD, NetBanking, and UPI.
+* **total sales over order date**: Visualizes sales performance specifically for January and February.
+
+## Visualizations Included
+The analysis includes pivot tables and timelines (found in the `Slicer and timeline.csv` export) to filter data by date and category dynamically.
